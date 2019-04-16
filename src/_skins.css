@@ -4,8 +4,8 @@
    Docs: http://tachyons.io/docs/themes/skins/
 
    Classes for setting foreground and background colors on elements.
-   If you haven't declared a border color, but set border on an element, it will 
-   be set to the current text color. 
+   If you haven't declared a border color, but set border on an element, it will
+   be set to the current text color.
 
 */
 
@@ -71,6 +71,40 @@
 .washed-red { color: var(--washed-red); }
 .color-inherit { color: inherit; }
 
+.ufl-neutral-blue-2 { color: var(--ufl-neutral-blue-2); }
+.ufl-neutral-blue-1 { color: var(--ufl-neutral-blue-1); }
+.ufl-neutral-blue-3 { color: var(--ufl-neutral-blue-3); }
+.ufl-neutral-orange-2 { color: var(--ufl-neutral-orange-2); }
+.ufl-neutral-orange-1 { color: var(--ufl-neutral-orange-1); }
+.ufl-neutral-orange-3 { color: var(--ufl-neutral-orange-3); }
+.ufl-primary-blue-3 { color: var(--ufl-primary-blue-3); }
+.ufl-primary-blue-2 { color: var(--ufl-primary-blue-2); }
+.ufl-primary-blue-1 { color: var(--ufl-primary-blue-1); }
+.ufl-primary-blue-4 { color: var(--ufl-primary-blue-4); }
+.ufl-primary-blue-5 { color: var(--ufl-primary-blue-5); }
+.ufl-primary-orange-3 { color: var(--ufl-primary-orange-3); }
+.ufl-primary-orange-2 { color: var(--ufl-primary-orange-2); }
+.ufl-primary-orange-1 { color: var(--ufl-primary-orange-1); }
+.ufl-primary-orange-4 { color: var(--ufl-primary-orange-4); }
+.ufl-primary-orange-5 { color: var(--ufl-primary-orange-5); }
+.ufl-neutral-brown { color: var(--ufl-neutral-brown); }
+.ufl-neutral-green { color: var(--ufl-neutral-green); }
+.ufl-neutral-beige { color: var(--ufl-neutral-beige); }
+.ufl-neutral-gray { color: var(--ufl-neutral-gray); }
+.ufl-bright-green { color: var(--ufl-bright-green); }
+.ufl-bright-purple { color: var(--ufl-bright-purple); }
+.ufl-bright-orange { color: var(--ufl-bright-orange); }
+.ufl-bright-red { color: var(--ufl-bright-red); }
+.ufl-muted-blue { color: var(--ufl-muted-blue); }
+.ufl-muted-orange { color: var(--ufl-muted-orange); }
+.ufl-cyan { color: var(--ufl-cyan); }
+.ufl-green { color: var(--ufl-green); }
+.ufl-pale-green { color: var(--ufl-pale-green); }
+.ufl-white { color: var(--ufl-white); }
+.ufl-black { color: var(--ufl-black); }
+.ufl-blue { color: var(--ufl-blue); }
+.ufl-orange { color: var(--ufl-orange); }
+.ufl-light { color: var(--ufl-light); }
 
 
 /* Background colors */
@@ -134,3 +168,38 @@
 .bg-washed-yellow { background-color: var(--washed-yellow); }
 .bg-washed-red { background-color: var(--washed-red); }
 .bg-inherit { background-color: inherit; }
+
+.bg-ufl-neutral-blue-2 { background-color: var(--ufl-neutral-blue-2); }
+.bg-ufl-neutral-blue-1 { background-color: var(--ufl-neutral-blue-1); }
+.bg-ufl-neutral-blue-3 { background-color: var(--ufl-neutral-blue-3); }
+.bg-ufl-neutral-orange-2 { background-color: var(--ufl-neutral-orange-2); }
+.bg-ufl-neutral-orange-1 { background-color: var(--ufl-neutral-orange-1); }
+.bg-ufl-neutral-orange-3 { background-color: var(--ufl-neutral-orange-3); }
+.bg-ufl-primary-blue-3 { background-color: var(--ufl-primary-blue-3); }
+.bg-ufl-primary-blue-2 { background-color: var(--ufl-primary-blue-2); }
+.bg-ufl-primary-blue-1 { background-color: var(--ufl-primary-blue-1); }
+.bg-ufl-primary-blue-4 { background-color: var(--ufl-primary-blue-4); }
+.bg-ufl-primary-blue-5 { background-color: var(--ufl-primary-blue-5); }
+.bg-ufl-primary-orange-3 { background-color: var(--ufl-primary-orange-3); }
+.bg-ufl-primary-orange-2 { background-color: var(--ufl-primary-orange-2); }
+.bg-ufl-primary-orange-1 { background-color: var(--ufl-primary-orange-1); }
+.bg-ufl-primary-orange-4 { background-color: var(--ufl-primary-orange-4); }
+.bg-ufl-primary-orange-5 { background-color: var(--ufl-primary-orange-5); }
+.bg-ufl-neutral-brown { background-color: var(--ufl-neutral-brown); }
+.bg-ufl-neutral-green { background-color: var(--ufl-neutral-green); }
+.bg-ufl-neutral-beige { background-color: var(--ufl-neutral-beige); }
+.bg-ufl-neutral-gray { background-color: var(--ufl-neutral-gray); }
+.bg-ufl-bright-green { background-color: var(--ufl-bright-green); }
+.bg-ufl-bright-purple { background-color: var(--ufl-bright-purple); }
+.bg-ufl-bright-orange { background-color: var(--ufl-bright-orange); }
+.bg-ufl-bright-red { background-color: var(--ufl-bright-red); }
+.bg-ufl-muted-blue { background-color: var(--ufl-muted-blue); }
+.bg-ufl-muted-orange { background-color: var(--ufl-muted-orange); }
+.bg-ufl-cyan { background-color: var(--ufl-cyan); }
+.bg-ufl-green { background-color: var(--ufl-green); }
+.bg-ufl-pale-green { background-color: var(--ufl-pale-green); }
+.bg-ufl-white { background-color: var(--ufl-white); }
+.bg-ufl-black { background-color: var(--ufl-black); }
+.bg-ufl-blue { background-color: var(--ufl-blue); }
+.bg-ufl-orange { background-color: var(--ufl-orange); }
+.bg-ufl-light { background-color: var(--ufl-light); }
