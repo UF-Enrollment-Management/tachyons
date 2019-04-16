@@ -41,9 +41,10 @@
   "scripts": {
     "start": "npm run build:watch",
     "mutations": "immutable-css src/tachyons.css --strict",
-    "build": "npm run build:css && npm run build:minify",
-    "build:css": "tachyons src/tachyons.css > css/tachyons.css",
-    "build:minify": "tachyons src/tachyons.css --minify > css/tachyons.min.css",
+    "fonts": "cp fonts/* dist/fonts",
+    "build": "npm run fonts && npm run build:css && npm run build:minify",
+    "build:css": "tachyons src/tachyons.css > dist/tachyons.css",
+    "build:minify": "tachyons src/tachyons.css --minify > dist/tachyons.min.css",
     "build:watch": "watch \"npm run build\" ./src/"
   }
 }
