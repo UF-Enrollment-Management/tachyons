@@ -44,8 +44,8 @@
     "mutations": "immutable-css src/tachyons.css --strict",
     "fonts": "cp fonts/* dist/fonts && cp node_modules/@fortawesome/fontawesome-free/webfonts/* dist/webfonts",
     "build": "npm run fonts && npm run build:css && npm run build:minify",
-    "build:css": "tachyons src/tachyons.css > dist/css/tachyons.css",
-    "build:minify": "tachyons src/tachyons.css --minify > dist/css/tachyons.min.css",
+    "build:css": "tachyons src/tachyons.css > dist/css/main.css",
+    "build:minify": "tachyons src/tachyons.css --minify > dist/css/main.min.css",
     "build:watch": "watch \"npm run build\" ./src/",
     "clean": "rm -rf dist/* && mkdir dist/fonts && mkdir dist/webfonts && mkdir dist/css"
   }
