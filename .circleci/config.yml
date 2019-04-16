@@ -62,7 +62,7 @@ jobs:
 
       - add_ssh_keys:
           fingerprints:
-            - "3d:2a:e3:75:70:5a:7f:ef:25:33:5b:b1:66:cb:ed:65"
+            - "35:c7:13:ad:9a:35:8c:e9:15:ef:ac:d9:89:e6:5b:ef"
 
       - run:
           command: |
