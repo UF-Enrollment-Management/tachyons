@@ -27,11 +27,11 @@
 
 @font-face {
 	font-family: 'gentona-bold';
-	src: url('fonts/gentona-bold.eot');
-	src: url('fonts/gentona-bold.eot?iefix') format('embedded-opentype'),
-			 url('fonts/gentona-bold.woff') format('woff'),
-			 url('fonts/gentona-bold.ttf') format('truetype'),
-			 url('fonts/gentona-bold.svg') format('svg');
+	src: url('../fonts/gentona-bold.eot');
+	src: url('../fonts/gentona-bold.eot?iefix') format('embedded-opentype'),
+			 url('../fonts/gentona-bold.woff') format('woff'),
+			 url('../fonts/gentona-bold.ttf') format('truetype'),
+			 url('../fonts/gentona-bold.svg') format('svg');
 	font-display: fallback;
 	font-weight: normal;
 	font-style: normal;
@@ -40,11 +40,11 @@
 
 @font-face {
 	font-family: 'gentona-book';
-	src: url('fonts/gentona-book.eot');
-	src: url('fonts/gentona-book.eot?iefix') format('embedded-opentype'),
-			 url('fonts/gentona-book.woff') format('woff'),
-			 url('fonts/gentona-book.ttf') format('truetype'),
-			 url('fonts/gentona-book.svg') format('svg');
+	src: url('../fonts/gentona-book.eot');
+	src: url('../fonts/gentona-book.eot?iefix') format('embedded-opentype'),
+			 url('../fonts/gentona-book.woff') format('woff'),
+			 url('../fonts/gentona-book.ttf') format('truetype'),
+			 url('../fonts/gentona-book.svg') format('svg');
 	font-display: fallback;
 	font-weight: normal;
 	font-style: normal;
@@ -53,11 +53,11 @@
 
 @font-face {
 	font-family: 'gentona-light';
-	src: url('fonts/gentona-light.eot');
-	src: url('fonts/gentona-light.eot?iefix') format('embedded-opentype'),
-			 url('fonts/gentona-light.woff') format('woff'),
-			 url('fonts/gentona-light.ttf') format('truetype'),
-			 url('fonts/gentona-light.svg') format('svg');
+	src: url('../fonts/gentona-light.eot');
+	src: url('../fonts/gentona-light.eot?iefix') format('embedded-opentype'),
+			 url('../fonts/gentona-light.woff') format('woff'),
+			 url('../fonts/gentona-light.ttf') format('truetype'),
+			 url('../fonts/gentona-light.svg') format('svg');
 	font-display: fallback;
 	font-weight: thin;
 	font-style: normal;
@@ -66,11 +66,11 @@
 
 @font-face {
 	font-family: 'quadon-medium';
-	src: url('fonts/quadon-medium.eot');
-	src: url('fonts/quadon-medium.eot?iefix') format('embedded-opentype'),
-			 url('fonts/quadon-medium.woff') format('woff'),
-			 url('fonts/quadon-medium.ttf') format('truetype'),
-			 url('fonts/quadon-medium.svg') format('svg');
+	src: url('../fonts/quadon-medium.eot');
+	src: url('../fonts/quadon-medium.eot?iefix') format('embedded-opentype'),
+			 url('../fonts/quadon-medium.woff') format('woff'),
+			 url('../fonts/quadon-medium.ttf') format('truetype'),
+			 url('../fonts/quadon-medium.svg') format('svg');
 	font-display: fallback;
 	font-weight: normal;
 	font-style: normal;
@@ -79,11 +79,11 @@
 
 @font-face {
 	font-family: 'quadon-thin';
-	src: url('fonts/quadon-thin.eot');
-	src: url('fonts/quadon-thin.eot?iefix') format('embedded-opentype'),
-			 url('fonts/quadon-thin.woff') format('woff'),
-			 url('fonts/quadon-thin.ttf') format('truetype'),
-			 url('fonts/quadon-thin.svg') format('svg');
+	src: url('../fonts/quadon-thin.eot');
+	src: url('../fonts/quadon-thin.eot?iefix') format('embedded-opentype'),
+			 url('../fonts/quadon-thin.woff') format('woff'),
+			 url('../fonts/quadon-thin.ttf') format('truetype'),
+			 url('../fonts/quadon-thin.svg') format('svg');
 	font-display: fallback;
 	font-weight: 300;
 	font-style: normal;

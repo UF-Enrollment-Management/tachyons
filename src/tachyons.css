@@ -26,6 +26,7 @@
 
 /* External Library Includes */
 @import './_normalize';
+@import '../node_modules/@fortawesome/fontawesome-free/css/all.css';
 
 
 /* Modules */
